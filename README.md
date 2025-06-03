@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodeAhmedJamil
-- 👀 I’m interested in devoops and machine learning
+- 👀 I’m interested in devops and machine learning
 - 🌱 I’m currently learning  transformers
 - 💞️ I’m looking to collaborate on opensource
 
